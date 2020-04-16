@@ -1,0 +1,12 @@
+#ifndef _CONWAY_H_
+#define _CONWAY_H_
+
+/*
+Arnesh Sahay
+Rutgers University CS 211
+Programming Assignment 2
+*/
+
+extern int update(int **board, int width, int height);
+
+#endif
