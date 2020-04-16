@@ -1,4 +1,4 @@
-# Conway readme
+# Conway's Game of Life
 
 **Design and Implementation:**
 The first task of the update board is to move the values of the board that was inputted into the
