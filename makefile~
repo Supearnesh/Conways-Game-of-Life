@@ -1,5 +1,0 @@
-all: game
-game: conway.s game.c
-	gcc -m32 -o game game.c conway.s
-clean:
-	rm -f game
